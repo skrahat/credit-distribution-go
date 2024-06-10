@@ -4,8 +4,8 @@ import (
 	"log"
 	"net/http"
 
-	"service/internal/config"
-	"service/internal/handlers"
+	"credit-distribution-go/internal/config"
+	"credit-distribution-go/internal/handlers"
 
 	"github.com/gorilla/mux"
 )
